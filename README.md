@@ -2,7 +2,7 @@
 # this app supports the persistence lecture in CSD214 
 ## JPA Product Management Console Application
 
-- this app is intended to be used in conjunction with [Csd214FromPojo_to_Entity_incomplete](https://github.com/fcarella/Csd214FromPojo_to_Entity_complete/tree/main)
+- this app is intended to be used in conjunction with [Csd214FromPojo_to_Entity_complete](https://github.com/fcarella/Csd214FromPojo_to_Entity_complete/tree/main)
 
 This project is a simple Java console application designed to demonstrate the fundamentals of the **Java Persistence API (JPA)** for database persistence. It serves as a practical example of converting a raw JDBC application into a more modern, maintainable application using an Object-Relational Mapping (ORM) framework.
 
