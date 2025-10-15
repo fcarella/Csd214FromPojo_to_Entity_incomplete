@@ -1,4 +1,3 @@
----
 # this app supports the persistence lecture in CSD214 
 ## JPA Product Management Console Application
 
